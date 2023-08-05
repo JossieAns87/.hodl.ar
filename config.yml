@@ -4,11 +4,11 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-username: "yofu" # < TU_USUARIO@hodl.ar
+username: "uxjossie" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 nostr: # Sin el # adelante
-  npub: "npub1xwttw25kxxgaj8acrzq0vyq8gg4m4ew429klcxwz99p7yjrdv3zs8p0swh" # Entre comillas dobles
+  npub: "npub1vm67q97d0fh4gqkwa2edrvz83q5u4hfd0cjyem5ynx3enzsd5nuqkgj7ql" # Entre comillas dobles
 
 # Configuración Global
 html:
@@ -31,27 +31,27 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/josieanschutz/
 
   - title: Twitter
     icon: twitter
-    url: https://twitter.com/TU-USUARIO
+    url: https://twitter.com/uxjossie
     
   - title: LinkedIn # Este es el nombre del botón
     icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-    url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+    url: https://www.linkedin.com/in/josefina-anschutz/ # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+  - title: Github
+    icon: github
+    url: https://github.com/JossieAns87
 
-# - title: Sitio Web
-#   icon: url
-#   url: https://www.TU-WEB.com
+  - title: Sitio Web
+    icon: url
+    url: https://www.notion.so/Hola-I-am-Jossie-UX-Writer-with-swag-d44001431330446ab77ab53f79f694df
 
-# - title: Telegram
-#   icon: telegram
-#   url: https://t.me/TU-USUARIO
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/uxjossie
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
